@@ -19,9 +19,10 @@ async def start_(client: Client, message: Message):
 
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
-┣★
-┣★ ᴍᴀᴅᴇ ʙʏ: [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](t.me/{me})
-┣★
+★ sᴜᴘᴘᴏʀᴛ ›› @Cet_Jee_Neet_Group
+★ ᴄʜᴀɴɴᴇʟ ›› @Cet_Jee_Neet_Poll
+★ ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› @ItsMeVijuu
+★ ᴏᴡɴᴇʀ ›› @Its_minato
 ┗━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴀʙᴏᴜᴛ ᴍᴇ ᴛʜᴇɴ ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](t.me/{me}) ʙᴀʙʏ...
@@ -30,7 +31,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥺 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ 🥺", url=f"https://t.me/{bu}?startgroup=true"
+                        "🥺 𝗞𝗶𝗱𝗻𝗮𝗽 𝗞𝗿 𝗟𝗼 𝗕𝗵𝗮𝘆𝗮 🥺", url=f"https://t.me/{bu}?startgroup=true"
                        ),
                   ],[
                     InlineKeyboardButton(
@@ -41,10 +42,10 @@ async def start_(client: Client, message: Message):
                     )
                 ],[
                     InlineKeyboardButton(
-                        "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
+                        " 𝗦𝘁𝗼𝗿𝘆 💞", url=f"https://t.me/ItsMyBi0"
                     ),
                     InlineKeyboardButton(
-                        "🤯 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ 🤯", url="https://github.com/AnonymousR1025/FallenMusic"
+                        "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/ItsMeVijuu"
                     )]
             ]
        ),
