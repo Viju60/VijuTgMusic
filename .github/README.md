@@ -85,7 +85,7 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
+- [I Am Vijay](https://github.com/viju60): Developer
 - [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
